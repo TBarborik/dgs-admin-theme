@@ -51,8 +51,5 @@
 	"perfect-scrollbar": "^1.5.5",
 	"popper.js": "^1.16.1",
 	"select2": "^4.0.13"
-  },
-  "files": [
-	"/dist"
-  ]
+  }
 }
