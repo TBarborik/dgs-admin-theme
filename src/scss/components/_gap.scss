@@ -1,0 +1,13 @@
+@each $code, $value in $spacers {
+  .g-#{$code} {
+	gap: $value
+  }
+
+  .gx-#{$code} {
+	gap: 0 $value
+  }
+
+  .gy-#{$code} {
+	gap: $value 0
+  }
+}

@@ -1,0 +1,23 @@
+//
+// Layout Initialization
+//
+
+@import
+    "base",
+    "print",
+    "main",
+    "header",
+    "header-menu",
+    "header-topbar",
+    "header-mobile",
+    "aside",
+    "sidebar",
+    "brand",
+    "subheader",
+    "content",
+    "footer";
+
+@import "../themes/layout/header/base/light";
+@import "../themes/layout/header/menu/light";
+@import "../themes/layout/aside/dark";
+@import "../themes/layout/brand/dark";

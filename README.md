@@ -1,0 +1,1 @@
+# Balíč s admin šablonou

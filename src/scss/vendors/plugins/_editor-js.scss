@@ -1,0 +1,10 @@
+.codex-editor {
+  z-index: unset !important;
+  .image-tool {
+	&__image {
+	  &-picture {
+		max-height: 600px;
+	  }
+	}
+  }
+}
