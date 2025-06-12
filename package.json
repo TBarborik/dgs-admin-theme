@@ -13,10 +13,6 @@
 	"build:prod": "webpack --mode=production --node-env=production",
 	"watch": "webpack --watch"
   },
-  "repository": {
-	"type": "git",
-	"url": "git@gitlab.dgstudio.cz:dgstudio/frontend/packages/admin-theme.git"
-  },
   "author": "Tom Barbořík <tom.barborik@dgstudio.cz>",
   "license": "ISC",
   "devDependencies": {

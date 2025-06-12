@@ -1,5 +1,3 @@
-import $ from "jquery"
-import "select2"
 import {Actions} from "./components/Actions"
 
 class Other {
@@ -12,10 +10,6 @@ class Other {
 	}
 
 	_init() {
-		$('select.form-control').select2({
-			language: "en",
-		})
-
 		Actions.init()
 	}
 
